@@ -1,2 +1,2 @@
-# breezio_app
-A quick demo of code
+# Ryan Ford's Breezio application
+A quick demo of code and some tests.
